@@ -54,4 +54,4 @@ Stat has park cross.
 
 Stat has major.
 
-Stat has major on time. 
+Stat has major on time.
